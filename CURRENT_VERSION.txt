@@ -1,0 +1,2 @@
+FV300 scanhead v0.2: v02_overhead_revision/viewer.html
+Updated from 20260910_171623.jpg. IX71 pending; unmeasured scale; not print-ready.

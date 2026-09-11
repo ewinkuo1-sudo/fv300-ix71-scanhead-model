@@ -1,0 +1,6 @@
+# 瀏覽器 profile（含 cookies / 快取，不進版控）
+.browser/
+.browser_compat/
+
+# 可重裝的 Python 相依套件
+.deps/
