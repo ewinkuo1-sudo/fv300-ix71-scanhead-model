@@ -42,3 +42,4 @@ Blender 內可切換掃描頭開蓋／閉蓋。模型已重新載入、檢視十
 v0.3/v0.4 使用 Blender 4.5.3 Python；各版 README 列出腳本與執行順序。
 腳本寫入所在版本資料夾；要保留现有成果，先複製到新的同層資料夾再執行。
 v0.1/v0.2 的 Manifold 流程獨立，不是 Blender 版本的相依套件。
+- [可單獨傳送的 HTML 結案與 Commit 紀錄](COMMIT_REPORT.html)
