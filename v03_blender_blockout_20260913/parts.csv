@@ -1,0 +1,80 @@
+﻿name,collection,evidence,uncertainty
+H01_Base_floor_EST,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Underside unseen; flat base and thickness wholly assumed.
+H02_Left_wall_EST,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+H03_Right_wall_EST,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+H04_Rear_wall_EST,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+H05_Front_wall_EST,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+H06_Rim_1,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+H06_Rim_2,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+H06_Rim_3,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+H06_Rim_4,01_Housing,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+B01_Double_window_bridge,02_Bridge_and_partitions,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+B02_Left_bay_partition,02_Bridge_and_partitions,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+B03_Right_bay_partition,02_Bridge_and_partitions,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+B04_Central_cross_partition,02_Bridge_and_partitions,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+B05_Electronic_separator,02_Bridge_and_partitions,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+B06_Left_dark_baffle,02_Bridge_and_partitions,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C01_Cast_support_main,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C02_Cast_support_step,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C03_Rear_barrel,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C04_Rear_barrel_rim,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C05_Front_barrel,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C06_Brass_guide,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C07_Pierced_long_plate,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C08_Long_plate_left_return,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C09_Long_plate_right_return,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C10_Left_folded_cover_top,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C11_Left_folded_cover_return,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C12_Rear_channel_side,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C13_Rear_channel_end,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C14_Rear_channel_floor_EST,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C15_Wheel_support,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C16_Upright_wheel_axis_X,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C17_Wheel_face,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C18_Transverse_brass_shaft,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C19_Bevel_drive_envelope_EST,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C20_Longitudinal_drive_envelope_EST,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C21_Longitudinal_sleeve,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C22_Actuator_support,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C23_Upper_actuator,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C24_Actuator_vertical_board,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+C25_Transverse_link,03_Central_mechanism,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R01_Upper_mount_plate,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R02_Upper_cylinder_Y,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R03_Upper_cylinder_X,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R04_Upper_clamp_Y,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R05_Upper_clamp_X,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R06_Angled_connector,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R07_Slider_base,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R08_Slider_rail_0,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R08_Slider_rail_1,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R09_Frame_left,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R10_Frame_right,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R11_Frame_rear,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R12_Frame_front,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R13_Diagonal_plate_edge,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R14_Diagonal_plate,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R15_Vertical_adjuster_block,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R16_Vertical_adjustment_spindle,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R17_Slider_round_knob,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R18_Lower_silver_barrel,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R19_Lower_cross_pin,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R20_Lower_brass_barrel,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R21_Lower_black_barrel,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+R22_Pierced_brass_flag,04_Right_mechanisms,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+E01_Metal_module,05_Electronics,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+E02_Upright_electronics_board,05_Electronics,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+E03_Board_component_0,05_Electronics,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+E03_Board_component_1,05_Electronics,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+E03_Board_component_2,05_Electronics,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+E04_Left_connector_board,05_Electronics,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+W01_Right_outer_loop_EST,06_Cable_envelopes_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible cable envelope only; hidden routing and endpoints not reconstructed.
+W02_Right_inner_loop_EST,06_Cable_envelopes_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible cable envelope only; hidden routing and endpoints not reconstructed.
+W03_Left_cable_loop_EST,06_Cable_envelopes_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible cable envelope only; hidden routing and endpoints not reconstructed.
+W04_Left_inner_cable_EST,06_Cable_envelopes_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible cable envelope only; hidden routing and endpoints not reconstructed.
+W05_Left_high_bundle_EST,06_Cable_envelopes_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible cable envelope only; hidden routing and endpoints not reconstructed.
+W06_Right_board_bundle_EST,06_Cable_envelopes_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible cable envelope only; hidden routing and endpoints not reconstructed.
+P01_Right_external_port_EST,07_External_ports_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+P02_Front_external_port_EST,07_External_ports_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+P03_Front_adjuster_EST,07_External_ports_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.
+P04_Front_adjuster_EST,07_External_ports_EST,20260910_171623.jpg; 153030; 153051; 153102,Visible plan envelope; elevation and hidden shape estimated.

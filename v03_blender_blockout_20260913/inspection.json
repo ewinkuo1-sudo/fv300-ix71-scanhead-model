@@ -1,0 +1,16 @@
+{
+  "reopened_blend": true,
+  "blender": "4.5.3 LTS",
+  "meshes": 73,
+  "curves": 6,
+  "invalid_coordinates": [],
+  "empty_meshes": [],
+  "views": [
+    "01_overhead.png",
+    "02_oblique.png",
+    "03_front_EST.png",
+    "04_right_EST.png",
+    "05_underside_EST.png"
+  ],
+  "physical_dimensions_verified": false
+}

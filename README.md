@@ -1,40 +1,33 @@
-# FV300 掃描頭內構模型
+# FV300／IX71 展示模型
 
-Olympus FV300 共軛焦掃描頭的開蓋內構重建，依 2026-09-10 拍攝的實機照片建模。
-**不是原廠 CAD，也不是可列印或可成像的複製件。**
+依實機照片與參考資料製作的展示用粗模；不是原廠 CAD。尺寸、隱藏面和部分機構仍為推估。
 
-## 開啟
+## 目前版本：Blender 掃描頭粗模 v0.3
 
-雙擊 `viewer.html`，會轉到目前版本的離線 3D 預覽（拖曳旋轉、縮放、拆解、查看單一零件）。
+- [照片對照與核對頁](v03_blender_blockout_20260913/review.html)（下載 repo 後以瀏覽器開啟）
+- [可編輯 Blender 模型](v03_blender_blockout_20260913/FV300_round1.blend)
+- [核對紀錄與限制](v03_blender_blockout_20260913/README.md)
+- [分件表](v03_blender_blockout_20260913/parts.csv)
 
-## 版本
+79 個獨立物件（73 網格、6 曲線），按區域命名與分組；打包四張內構參考照片。
+以 Blender 4.5.3 重新載入模型，檢查五個視角並開啟 GUI。
+修正右側調整桿的垂直方向，中央折板改為開口分件。
+外框寬為 10 任意單位；所有高度仍為推估，IX71 尚未加入本版本。
 
-| 版本 | 目錄 | 依據 |
+## 版本保留
+
+| 版本 | 目錄 | 說明 |
 | --- | --- | --- |
-| v0.1 | `v01_scanhead/` | 三張開蓋斜拍照片 |
-| v0.2（目前） | `v02_overhead_revision/` | 新增俯視照，修正配置 |
+| v0.1 | v01_scanhead/ | 三張斜拍照片的初版 |
+| v0.2 | v02_overhead_revision/ | 加入俯視照；舊離線互動 viewer |
+| v0.3 | v03_blender_blockout_20260913/ | Blender 獨立重建粗模，等待比例確認 |
 
-`CURRENT_VERSION.txt` 記錄目前狀態。`v02_overhead_revision/comparison.html` 可並排比對兩版。
+根目錄 viewer.html 連到 v0.3 核對頁；舊版互動 viewer 保留在各版目錄。
+根目錄 20260910_*.jpg 為實機照片。
 
-## 每個版本的檔案
+## 重現
 
-- `viewer.html` — 離線 3D 預覽
-- `build_model.py` — 參數化 Python／Manifold 建模原始碼
-- `model.json` — 產生出的幾何
-- `parts.csv` — 零件清單
-- `preview*.png` — 靜態預覽
-- `validation.json` — 網格檢查結果
+v0.3 使用 Blender Python：以 Blender 執行 build_blockout.py，再執行 inspect_saved_model.py 重新載入檢查。
+腳本會寫入所在版本資料夾；要保留現有成果，請先複製到新的同層資料夾再執行。
+v0.1/v0.2 的 build_model.py 使用 Manifold 等外部相依套件，不是 v0.3 的相依套件。
 
-根目錄的 `20260910_*.jpg` 是建模依據的原始照片。
-
-## 界線
-
-- 尺寸、隱藏面、齒數與部分機構功能**未核實**
-- 模型單位為暫定值，**不是實機尺寸**
-- IX71 本體未建模
-- 缺資料處留空，不建立臆測光路
-- 未實體試印，非列印成品
-
-## 重現建模
-
-`build_model.py` 需要 Python 與 Manifold；原專案使用相鄰目錄的 `.deps`，該目錄未進版控，需自行安裝相依套件。
