@@ -1,0 +1,4 @@
+# Temporary render output and superseded draft checks
+render.log
+checks/frame_*.png
+*.blend1

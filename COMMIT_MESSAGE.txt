@@ -1,0 +1,10 @@
+Finalize FV300 IX71 animation and archive prompt workflow
+
+Deliver the accepted 28-second editable Blender animation and 1080p MP4,
+with local playback, storyboard, scripts, and decoded-frame inspection.
+Archive visible user prompts, modeling decisions, validation, and commit history.
+Update the entry point to v05 while preserving v01-v04 and the v04 photo review.
+
+Validation: Blender GUI opened; encoded MP4 decoded at six key frames;
+672 frames at 1920x1080 confirmed. Cover motion remains illustrative.
+User authorized project closure and repository push.

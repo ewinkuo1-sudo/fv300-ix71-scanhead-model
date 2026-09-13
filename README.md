@@ -2,7 +2,17 @@
 
 依實機照片與 Olympus 型錄建立的展示用粗模；尺寸、隱藏面與部分機構仍為推估。
 
-## 目前整機版本：v0.4
+## 結案版本：v0.5 動畫
+
+- [動畫播放頁](v05_animation_preview_20260913/preview.html)（下載 repo 後開啟）
+- [28 秒 MP4](v05_animation_preview_20260913/FV300_IX71_preview.mp4)
+- [可編輯動畫原檔](v05_animation_preview_20260913/FV300_IX71_animation.blend)
+- [Prompt、製作與 Commit 過程紀錄](PROJECT_CLOSEOUT.md)
+- [本次 Commit 訊息](COMMIT_MESSAGE.txt)
+
+使用者已接受並授權結案。影片為 1080p／24 fps／無聲；上蓋分離是展示示意。
+
+## 整機幾何基準：v0.4
 
 - [照片對照與核對頁](v04_fv300_ix71_assembly_20260913/review.html)（下載 repo 後以瀏覽器開啟）
 - [可編輯 Blender 模型](v04_fv300_ix71_assembly_20260913/FV300_IX71_round1.blend)
@@ -21,8 +31,9 @@ Blender 內可切換掃描頭開蓋／閉蓋。模型已重新載入、檢視十
 | v0.2 | v02_overhead_revision/ | 加入俯視照；舊離線互動 viewer |
 | v0.3 | v03_blender_blockout_20260913/ | Blender 掃描頭獨立重建粗模 |
 | v0.4 | v04_fv300_ix71_assembly_20260913/ | FV300＋IX71 整機粗模里程碑 |
+| v0.5 | v05_animation_preview_20260913/ | 已接受的動畫與結案紀錄 |
 
-根目錄 viewer.html 連到 v0.4 核對頁；舊版模型與互動 viewer 留在各版目錄。
+根目錄 viewer.html 連到 v0.5 動畫播放頁；舊版模型與互動 viewer 留在各版目錄。
 根目錄 20260910_*.jpg 為實機照片。
 原廠型錄來源列於 v0.4 README；完整下載快取留在本機，repo 包含核對圖與來源連結。
 

@@ -1,1 +1,1 @@
-FV300 + IX71 v0.4: v04_fv300_ix71_assembly_20260913/FV300_IX71_round1.blend; review.html for comparisons. Assembly blockout milestone; dimensions partly estimated.
+FV300 + IX71 v0.5 closed milestone: v05_animation_preview_20260913/FV300_IX71_animation.blend; preview.html and MP4. v04 assembly/photo review preserved. See PROJECT_CLOSEOUT.md.
