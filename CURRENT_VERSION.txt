@@ -1,1 +1,1 @@
-FV300 scanhead v0.3: v03_blender_blockout_20260913/FV300_round1.blend; review.html for comparisons. Heights estimated; IX71 pending.
+FV300 + IX71 v0.4: v04_fv300_ix71_assembly_20260913/FV300_IX71_round1.blend; review.html for comparisons. Assembly blockout milestone; dimensions partly estimated.

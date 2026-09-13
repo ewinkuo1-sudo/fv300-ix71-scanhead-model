@@ -1,0 +1,31 @@
+{
+  "reopened_saved_blend": true,
+  "blender_version": "4.5.3 LTS",
+  "invalid_meshes": [],
+  "views": [
+    "01_assembly_closed.png",
+    "02_assembly_open.png",
+    "03_front.png",
+    "04_right_side.png",
+    "05_top_open.png",
+    "06_rear.png",
+    "07_photo153139_front_detail.png",
+    "08_photo153147_side_detail.png",
+    "09_photo153221_illumination.png",
+    "10_ix71_nominal_side.png",
+    "11_catalog_approx.png"
+  ],
+  "stage_top_mm": 299.0,
+  "active_objective_tip_mm": 296.0,
+  "objective_to_stage_clearance_mm": 3.0,
+  "import_translation_errors": [],
+  "connector_axis_offset_mm": 0.0,
+  "stage_hole_radius_mm": 55,
+  "optical_axis_xy_mm": [
+    0,
+    0
+  ],
+  "scanner_dimensions_measured": false,
+  "physical_assembly_verified": false,
+  "catalog_camera_reopened_and_rendered": true
+}

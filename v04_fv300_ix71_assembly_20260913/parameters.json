@@ -1,0 +1,17 @@
+{
+  "ix71_base_length_mm": 394,
+  "ix71_front_body_width_mm": 135,
+  "stage_height_mm": 299,
+  "stage_width_mm": 232,
+  "stage_depth_mm": 240,
+  "illumination_top_mm": 667,
+  "pillar_y_mm": 147,
+  "binocular_raise_mm": 38,
+  "scanhead_width_EST_mm": 480,
+  "scanhead_height_EST_mm": 185,
+  "scanhead_base_z_EST_mm": 20,
+  "scanhead_center_xy_EST_mm": [
+    -410,
+    -21
+  ]
+}
