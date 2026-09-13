@@ -43,3 +43,4 @@ v0.3/v0.4 使用 Blender 4.5.3 Python；各版 README 列出腳本與執行順�
 腳本寫入所在版本資料夾；要保留现有成果，先複製到新的同層資料夾再執行。
 v0.1/v0.2 的 Manifold 流程獨立，不是 Blender 版本的相依套件。
 - [可單獨傳送的 HTML 結案與 Commit 紀錄](COMMIT_REPORT.html)
+- [本次完整可見對話逐字稿 HTML（2026-09-13）](SESSION_TRANSCRIPT_20260913.html)
